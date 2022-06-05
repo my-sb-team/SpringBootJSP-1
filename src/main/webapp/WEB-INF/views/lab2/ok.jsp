@@ -32,7 +32,7 @@ pageEncoding="utf-8"%>
 				</form>
 			</div>
 			<div class="card-footer">
-				<h2>Kết Quả: ${ketqua }</h2>
+				<h2>Kết Quả: ${ketqua}</h2>
 			</div>
 		  </div>
       

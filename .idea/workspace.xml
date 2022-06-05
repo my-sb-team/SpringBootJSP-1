@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab8b082a-f9d1-4b57-88ce-0635a1218406" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/SpringBootJsp1Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/OkController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/ParamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/PhepTinhController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/ProductController2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/ResultController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/controller/SanPhamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/poly/sbjsp/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/lab2/ok.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/lab2/ok.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/ServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/SpringBootJsp1Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/OkController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/ParamController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/PhepTinhController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/ProductController2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/ResultController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/controller/SanPhamController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/poly/sbjsp/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.poly/SpringBootJSP-1/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.poly/SpringBootJSP-1/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.poly/SpringBootJSP-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.poly/SpringBootJSP-1/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29tNVfNZ4R7AVBrCGWMULhvhK2h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/_BACK_END/JAVA_WEB/SOF302/SpringBootJSP-1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab8b082a-f9d1-4b57-88ce-0635a1218406" name="Changes" comment="" />
+      <created>1653928449606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653928449606</updated>
+    </task>
+    <servers />
+  </component>
+</project>
